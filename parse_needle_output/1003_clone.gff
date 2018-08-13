@@ -1,0 +1,12 @@
+7659_1_ORF1	needle	sequence_conflict	1	1	.	+	.	ID=7659_1_ORF1.0;note=Insertion of 2 bases in ENST00000351698;replace=KL
+7659_1_ORF1	needle	sequence_conflict	3	3	.	+	.	ID=7659_1_ORF1.1;note=SNP in ENST00000351698;replace=Q
+7659_1_ORF1	needle	sequence_conflict	147	151	.	+	.	ID=7659_1_ORF1.2;note=ENST00000351698;replace=DQLQL
+7659_1_ORF1	needle	sequence_conflict	153	158	.	+	.	ID=7659_1_ORF1.3;note=Insertion of 6 bases in 7659_1_ORF1;replace=
+7659_1_ORF1	needle	sequence_conflict	160	162	.	+	.	ID=7659_1_ORF1.4;note=ENST00000351698;replace=RGN
+7659_1_ORF1	needle	sequence_conflict	164	164	.	+	.	ID=7659_1_ORF1.5;note=Insertion of 6 bases in ENST00000351698;replace=ACARSI
+7659_1_ORF1	needle	sequence_conflict	166	167	.	+	.	ID=7659_1_ORF1.6;note=ENST00000351698;replace=IF
+7659_1_ORF1	needle	sequence_conflict	170	181	.	+	.	ID=7659_1_ORF1.7;note=ENST00000351698;replace=MDKMHAGLIDAI
+7659_1_ORF1	needle	sequence_conflict	183	183	.	+	.	ID=7659_1_ORF1.8;note=SNP in ENST00000351698;replace=P
+7659_1_ORF1	needle	sequence_conflict	185	189	.	+	.	ID=7659_1_ORF1.9;note=ENST00000351698;replace=LDYYD
+7659_1_ORF1	needle	sequence_conflict	191	194	.	+	.	ID=7659_1_ORF1.10;note=ENST00000351698;replace=VDGV
+7659_1_ORF1	needle	sequence_conflict	195	195	.	+	.	ID=7659_1_ORF1.11;note=Insertion of 135 bases in ENST00000351698;replace=YQKAMFIFLSNAGAERITDVALDFWRSGKQREDIKLKDIEHALSVSVFNNKNSGFWHSSLIDRNLIDYFVPFLPLEYKHLKMCIRVEMQSRGYEIDEDIVSRVAEEMTFFPKEERVFSDKGCKTVFTKLDYYYDD

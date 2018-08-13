@@ -1,0 +1,97 @@
+BLASTP 2.6.0+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+Reference for compositional score matrix adjustment: Stephen
+F. Altschul, John C. Wootton, E. Michael Gertz, Richa
+Agarwala, Aleksandr Morgulis, Alejandro A. Schaffer, and
+Yi-Kuo Yu (2005) "Protein database searches using
+compositionally adjusted substitution matrices", FEBS J.
+272:5101-5109.
+
+
+RID: 8CC9J2BF014
+
+
+Database: All non-redundant GenBank CDS
+translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+from WGS projects
+           112,247,608 sequences; 41,144,954,208 total letters
+Query= sp|P02144|MYG_HUMAN Myoglobin OS=Homo sapiens GN=MB PE=1 SV=2
+
+Length=137
+
+
+                                                                   Score     E
+Sequences producing significant alignments:                       (Bits)  Value
+
+BAG36764.1  unnamed protein product [Homo sapiens]                 228     7e-75
+
+ALIGNMENTS
+>BAG36764.1 unnamed protein product [Homo sapiens]
+Length=154
+
+ Score = 228 bits (581),  Expect = 7e-75, Method: Compositional matrix adjust.
+ Identities = 124/154 (81%), Positives = 126/154 (82%), Gaps = 17/154 (11%)
+
+Query  1    MGLSDGEWQLVLNVWGKVEADIPGHGQEVL-----------GGGGKFKHLKSEDEMKASE  49
+            MGLSDGEWQLVLNVWGKVEADIPGHGQEVL               KFKHLKSEDEMKASE
+Sbjct  1    MGLSDGEWQLVLNVWGKVEADIPGHGQEVLIRLFKGHPETLERFDKFKHLKSEDEMKASE  60
+
+Query  50   DLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKHHHH--HCIIQVLQSKH  107
+            DLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVK+      CIIQVLQSKH
+Sbjct  61   DLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLEFISECIIQVLQSKH  120
+
+Query  108  PGDFGADAQKKKKK----FRKDMASNYKELGFQG  137
+            PGDFGADAQ+   K    FRKDMASNYKELGFQG
+Sbjct  121  PGDFGADAQRAMNKALELFRKDMASNYKELGFQG  154
+
+
+  Database: All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF
+excluding environmental samples from WGS projects
+    Posted date:  Jan 14, 2017  10:04 AM
+  Number of letters in database: 41,144,954,208
+  Number of sequences in database:  112,247,608
+
+Lambda      K        H
+   0.315    0.134    0.407 
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 112247608
+Number of Hits to DB: 12800943
+Number of extensions: 9969
+Number of successful extensions: 2400
+Number of sequences better than 100: 20
+Number of HSP's better than 100 without gapping: 0
+Number of HSP's gapped: 2396
+Number of HSP's successfully gapped: 20
+Length of query: 137
+Length of database: 41144954208
+Length adjustment: 103
+Effective length of query: 34
+Effective length of database: 29583450584
+Effective search space: 1005837319856
+Effective search space used: 1005837319856
+T: 21
+A: 40
+X1: 16 (7.3 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 42 (20.8 bits)
+S2: 75 (33.5 bits)
+ka-blk-alpha gapped: 1.9
+ka-blk-alpha ungapped: 0.7916
+ka-blk-alpha_v gapped: 42.6028
+ka-blk-alpha_v ungapped: 4.96466
+ka-blk-sigma gapped: 43.6362
+
+
+
+

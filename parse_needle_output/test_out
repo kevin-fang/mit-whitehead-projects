@@ -1,0 +1,65 @@
+########################################
+# Program: needle
+# Rundate: Mon 13 Aug 2018 16:42:49
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20180813-164247-0468-31683675-p2m.asequence
+#    -bsequence emboss_needle-I20180813-164247-0468-31683675-p2m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: EMBOSS_001
+# 2: EMBOSS_001
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 261
+# Identity:     253/261 (96.9%)
+# Similarity:   253/261 (96.9%)
+# Gaps:           1/261 ( 0.4%)
+# Score: 1263.0
+# 
+#
+#=======================================
+
+EMBOSS_001         1 aacaatctaagagaattgtagaagaaaataactacaaaacaacaaggaat     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+EMBOSS_001         1 aacaatctaagagaattgtagaagaaaataactacaaaacaacaaggaat     50
+
+EMBOSS_001        51 tgttatccagaaaaatttaaaaaaaaatacacacaaaaataacaaaatgt    100
+                     |||||||||||||..|||...||||.||||||||||||||||||||||||
+EMBOSS_001        51 tgttatccagaaattttttttaaaacatacacacaaaaataacaaaatgt    100
+
+EMBOSS_001       101 catagacactattgcctgaaagaaacagactggttaactcagaaaaaaaa    150
+                     |||||||||||||||||||||||||||||||||||||||||| |||||||
+EMBOSS_001       101 catagacactattgcctgaaagaaacagactggttaactcag-aaaaaaa    149
+
+EMBOSS_001       151 aaaaaaaatagctaaaaatagcagagaaacaaacaatgggtaaacaaaga    200
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+EMBOSS_001       150 aaaaaaaatagctaaaaatagcagagaaacaaacaatgggtaaacaaaga    199
+
+EMBOSS_001       201 aatttttaaaaaataaaaagagtaaaaatatatgaataaaaatgacaatg    250
+                     |||||||||||||||||||||||||||||||.||||||||||||||||||
+EMBOSS_001       200 aatttttaaaaaataaaaagagtaaaaatatctgaataaaaatgacaatg    249
+
+EMBOSS_001       251 aacacacaatg    261
+                     |||||||||||
+EMBOSS_001       250 aacacacaatg    260
+
+
+#---------------------------------------
+#---------------------------------------

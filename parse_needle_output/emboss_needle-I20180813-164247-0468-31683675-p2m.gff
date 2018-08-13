@@ -1,0 +1,5 @@
+EMBOSS_001	needle	sequence_conflict	64	65	.	+	.	ID=EMBOSS_001.0;note=EMBOSS_001;replace=aa
+EMBOSS_001	needle	sequence_conflict	69	71	.	+	.	ID=EMBOSS_001.1;note=EMBOSS_001;replace=aaa
+EMBOSS_001	needle	sequence_conflict	76	76	.	+	.	ID=EMBOSS_001.2;note=SNP in EMBOSS_001;replace=a
+EMBOSS_001	needle	sequence_conflict	142	142	.	+	.	ID=EMBOSS_001.3;note=Insertion of 1 bases in EMBOSS_001;replace=a
+EMBOSS_001	needle	sequence_conflict	231	231	.	+	.	ID=EMBOSS_001.4;note=SNP in EMBOSS_001;replace=a

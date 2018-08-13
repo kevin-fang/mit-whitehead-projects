@@ -1,0 +1,55 @@
+Bioinformatics datasets available on tak
+Datasets are accessible by dataset name in /nfs/BaRC_datasets
+Each dataset is more thoroughly described in its README file.
+Datasets may be freely shared unless described as "Whitehead access only".
+Contact BaRC (bioinformatics@wi.mit.edu) if you have any suggestions of other good resources or would like help with downloading or storage of large datasets that may be of general use.
+
+Dataset	Description	Source
+1000_Genomes_PhaseI		
+1000_YeastStrains		
+Biobase_other_databases		
+BioCyc_MetaCyc_EcoCyc		
+BioGPS		
+Broad_CCLE_Array		
+Broad_CCLE_RNASeq		
+Broad_ExAC		
+Broad_GTEx		
+cBioPortal_MutationData		
+CEAS		
+COSMIC_Mutations		
+CRISPR_Broad_Jan2016		
+CSHL_LongRnaSeq		
+DiscovEHR_Variants		
+ENCODE_TFBS		
+Enhancer_Atlas		
+expO		
+FANTOM5_enhancers		
+fly_modEncode_geneExpr		
+Gasch_yeast_respond2enviroment_array		
+GSK_Cancer_Cell_Line		
+HUGO_HGNC_Data		
+Human_Body_Index_Normal		
+Human_HousekeepingGenes		
+Illumina_Human_Body_Map_2.0		
+Illumina_PlatinumGenomes		
+InterPro_AllProteinDomains		
+KEGG_Pathways		
+MEME_matrix_databases		
+miRNA_expression_compendia		
+NCI60_Cell_Lines		
+ngsplot		
+OMIM		
+ProteinAtlas_RNASeq		
+pubtator		
+RepeatMasker		
+Sanger_Yeast_Resequencing		
+snpeff_share		
+TCGA_Array		
+TCGA_Met450k_IlluminaBeadChip		
+TCGA_RNASeqV2		
+TCGA_Tumor_v_Normal_MatchedArray		
+TCGA_Tumor_v_Normal_MatchedRNASeqV2		
+Transfac		
+VISTA_enhancers		
+Yeast_deletion_mutants		
+Z-Seq_Broad_zebrafish		

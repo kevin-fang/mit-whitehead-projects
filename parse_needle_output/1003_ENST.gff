@@ -1,0 +1,12 @@
+ENST00000351698	needle	sequence_conflict	2	3	.	+	.	ID=ENST00000351698.0;note=Insertion of 2 bases in ENST00000351698;replace=
+ENST00000351698	needle	sequence_conflict	5	5	.	+	.	ID=ENST00000351698.1;note=SNP in 7659_1_ORF1;replace=R
+ENST00000351698	needle	sequence_conflict	149	153	.	+	.	ID=ENST00000351698.2;note=7659_1_ORF1;replace=ARMEV
+ENST00000351698	needle	sequence_conflict	154	154	.	+	.	ID=ENST00000351698.3;note=Insertion of 6 bases in 7659_1_ORF1;replace=NPFLDV
+ENST00000351698	needle	sequence_conflict	156	158	.	+	.	ID=ENST00000351698.4;note=7659_1_ORF1;replace=GFG
+ENST00000351698	needle	sequence_conflict	161	166	.	+	.	ID=ENST00000351698.5;note=Insertion of 6 bases in ENST00000351698;replace=
+ENST00000351698	needle	sequence_conflict	168	169	.	+	.	ID=ENST00000351698.6;note=7659_1_ORF1;replace=LW
+ENST00000351698	needle	sequence_conflict	172	183	.	+	.	ID=ENST00000351698.7;note=7659_1_ORF1;replace=IWEFYVEMSEPG
+ENST00000351698	needle	sequence_conflict	185	185	.	+	.	ID=ENST00000351698.8;note=SNP in 7659_1_ORF1;replace=R
+ENST00000351698	needle	sequence_conflict	187	191	.	+	.	ID=ENST00000351698.9;note=7659_1_ORF1;replace=MSQFP
+ENST00000351698	needle	sequence_conflict	193	196	.	+	.	ID=ENST00000351698.10;note=7659_1_ORF1;replace=ERCR
+ENST00000351698	needle	sequence_conflict	198	332	.	+	.	ID=ENST00000351698.11;note=Insertion of 135 bases in ENST00000351698;replace=

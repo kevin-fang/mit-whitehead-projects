@@ -1,0 +1,62 @@
+########################################
+# Program: needle
+# Rundate: Wed 19 Oct 2016 10:04:24
+# Commandline: needle
+#    -asequence blast_topHit_aa/1002_clone.aa
+#    -bsequence ENST_aa/1002_ENST.fa
+#    -outfile needle_out/1002_out
+#    -gapopen 10
+#    -gapextend 0.5
+# Align_format: srspair
+# Report_file: needle_out/1002_out
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: 7659_1_ORF1
+# 2: ENST00000351698
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 338
+# Identity:     158/338 (46.7%)
+# Similarity:   171/338 (50.6%)
+# Gaps:         147/338 (43.5%)
+# Score: 784.0
+#
+#
+#=======================================
+
+7659_1_ORF1        1 MKLGRAVLGLLLLAPSVVQAVEPISLGLALAGVLTGYIYPRLYCLFAECC     50
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ENST000003516      1 MKLGRAVLGLLLLAPSVVQAVEPISLGLALAGVLTGYIYPRLYCLFAECC     50
+
+7659_1_ORF1       51 GQKRSLSREALQKDLDDNLFGQHLAKKIILNAVFGFINNPKPKKPLTLSL    100
+                     ||||||||||||||||||||||||||||||||||||||||||||||||||
+ENST000003516     51 GQKRSLSREALQKDLDDNLFGQHLAKKIILNAVFGFINNPKPKKPLTLSL    100
+
+7659_1_ORF1      101 HGWTGTGKNFVSKIIAENIYEGGLNSDYVHLFVATLHFPHASNITLYKAR    150
+                     ||||||||||||||||||||||||||||||||||||||||||||||||.:
+ENST000003516    101 HGWTGTGKNFVSKIIAENIYEGGLNSDYVHLFVATLHFPHASNITLYKDQ    150
+
+7659_1_ORF1      151 MEVWNPFLDVIGFGVS------LLWDEIWEFYVEMSEPGKRFMSQFPLER    194
+                     :::|      |...||      .::||:.:.:..:.:..|.|:..:.|..
+ENST000003516    151 LQLW------IRGNVSACARSIFIFDEMDKMHAGLIDAIKPFLDYYDLVD    194
+
+7659_1_ORF1      195 CRS-----------------------------------------------    197
+                     ..|
+ENST000003516    195 GVSYQKAMFIFLSNAGAERITDVALDFWRSGKQREDIKLKDIEHALSVSV    244
+
+7659_1_ORF1      197 --------------------------------------------------    197
+
+ENST000003516    245 FNNKNSGFWHSSLIDRNLIDYFVPFLPLEYKHLKMCIRVEMQSRGYEIDE    294
+
+7659_1_ORF1      197 --------------------------------------    197
+
+ENST000003516    295 DIVSRVAEEMTFFPKEERVFSDKGCKTVFTKLDYYYDD    332
+
+
+#---------------------------------------
+#---------------------------------------

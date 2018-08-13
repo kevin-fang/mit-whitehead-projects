@@ -1,0 +1,125 @@
+BLASTP 2.6.0+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro
+A. Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and
+David J. Lipman (1997), "Gapped BLAST and PSI-BLAST: a new
+generation of protein database search programs", Nucleic
+Acids Res. 25:3389-3402.
+
+
+Reference for compositional score matrix adjustment: Stephen
+F. Altschul, John C. Wootton, E. Michael Gertz, Richa
+Agarwala, Aleksandr Morgulis, Alejandro A. Schaffer, and
+Yi-Kuo Yu (2005) "Protein database searches using
+compositionally adjusted substitution matrices", FEBS J.
+272:5101-5109.
+
+
+RID: 8ERX7JCR014
+
+
+Database: All non-redundant GenBank CDS
+translations+PDB+SwissProt+PIR+PRF excluding environmental samples
+from WGS projects
+           112,247,608 sequences; 41,144,954,208 total letters
+Query= Fake_protein
+
+Length=294
+
+
+                                                                   Score     E
+Sequences producing significant alignments:                       (Bits)  Value
+
+NP_005359.1  myoglobin [Homo sapiens]                              286     4e-95
+
+ALIGNMENTS
+>NP_005359.1 myoglobin [Homo sapiens]
+ NP_976311.1 myoglobin [Homo sapiens]
+ NP_976312.1 myoglobin [Homo sapiens]
+ XP_005261662.1 PREDICTED: myoglobin isoform X1 [Homo sapiens]
+ P02144.2 RecName: Full=Myoglobin
+ CAA25109.1 myoglobin [Homo sapiens]
+ AAH14547.1 Myoglobin [Homo sapiens]
+ CAG30402.1 MB [Homo sapiens]
+ CAG46747.1 MB, partial [Homo sapiens]
+ CAK54547.1 MB [synthetic construct]
+ CAK54846.1 MB, partial [synthetic construct]
+ EAW60066.1 myoglobin, isoform CRA_b [Homo sapiens]
+ ABM84605.1 myoglobin [synthetic construct]
+ ABM87049.1 myoglobin, partial [synthetic construct]
+ BAI47008.1 myoglobin, partial [synthetic construct]
+ AIC54741.1 MB, partial [synthetic construct]
+ SAI82144.1 TPA: globin G [Homo sapiens]
+Length=154
+
+ Score = 286 bits (731),  Expect = 4e-95, Method: Compositional matrix adjust.
+ Identities = 140/140 (100%), Positives = 140/140 (100%), Gaps = 0/140 (0%)
+
+Query  1    MGLSDGEWQLVLNVWGKVEADIPGHGQEVLIRLFKGHPETLEKFDKFKHLKSEDEMKASE  60
+            MGLSDGEWQLVLNVWGKVEADIPGHGQEVLIRLFKGHPETLEKFDKFKHLKSEDEMKASE
+Sbjct  1    MGLSDGEWQLVLNVWGKVEADIPGHGQEVLIRLFKGHPETLEKFDKFKHLKSEDEMKASE  60
+
+Query  61   DLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLEFISECIIQVLQSKH  120
+            DLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLEFISECIIQVLQSKH
+Sbjct  61   DLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLEFISECIIQVLQSKH  120
+
+Query  121  PGDFGADAQGAMNKALELFR  140
+            PGDFGADAQGAMNKALELFR
+Sbjct  121  PGDFGADAQGAMNKALELFR  140
+
+
+ Score = 174 bits (442),  Expect = 3e-51, Method: Compositional matrix adjust.
+ Identities = 85/88 (97%), Positives = 85/88 (97%), Gaps = 0/88 (0%)
+
+Query  207  TTTTTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLEFISECIIQVLQSKHPGDFGA  266
+             T  TALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLEFISECIIQVLQSKHPGDFGA
+Sbjct  67   ATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLEFISECIIQVLQSKHPGDFGA  126
+
+Query  267  DAQGAMNKALELFRKDMASNYKELGFQG  294
+            DAQGAMNKALELFRKDMASNYKELGFQG
+Sbjct  127  DAQGAMNKALELFRKDMASNYKELGFQG  154
+
+
+  Database: All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF
+excluding environmental samples from WGS projects
+    Posted date:  Jan 14, 2017  10:04 AM
+  Number of letters in database: 41,144,954,208
+  Number of sequences in database:  112,247,608
+
+Lambda      K        H
+   0.318    0.135    0.410 
+Gapped
+Lambda      K        H
+   0.267   0.0410    0.140 
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Number of Sequences: 112247608
+Number of Hits to DB: 4070
+Number of extensions: 108
+Number of successful extensions: 108
+Number of sequences better than 100: 54
+Number of HSP's better than 100 without gapping: 0
+Number of HSP's gapped: 100
+Number of HSP's successfully gapped: 100
+Length of query: 294
+Length of database: 41144954208
+Length adjustment: 152
+Effective length of query: 142
+Effective length of database: 41144954208
+Effective search space: 5842583497536
+Effective search space used: 3419831126464
+T: 21
+A: 40
+X1: 16 (7.3 bits)
+X2: 38 (14.6 bits)
+X3: 64 (24.7 bits)
+S1: 41 (20.4 bits)
+S2: 79 (35.0 bits)
+ka-blk-alpha gapped: 1.9
+ka-blk-alpha ungapped: 0.7916
+ka-blk-alpha_v gapped: 42.6028
+ka-blk-alpha_v ungapped: 4.96466
+ka-blk-sigma gapped: 43.6362
+
+
+
+
